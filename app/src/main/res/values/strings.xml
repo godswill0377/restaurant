@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Winefi24</string>
+    <string name="gps_text">This app wants to change ypur device settings:</string>
+    <string name="gps_text1">Your GPS seems to be disabled. do you want to enable it?</string>
+    <string name="gps_text2">Il tuo GPS è disabilitato, vuoi attivarlo?</string>
+
+
+</resources>
